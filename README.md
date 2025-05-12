@@ -22,7 +22,7 @@ The system employs **Large Language Models** (e.g., LLaMA) augmented with **Retr
 
 | Component        | Description                                                    |
 |------------------|----------------------------------------------------------------|
-| Notebook         | `Copy_of_Sentiment_Analysis,_BERT,_LLM,_Groq.ipynb`            |
+| Notebook         | `Sentiment_Analysis,_BERT,_LLM,_Groq.ipynb`            |
 | Sentiment Model  | `twitter-roberta-base-sentiment`                               |
 | Language Model   | `llama-3.1-8b-instant`                                         |
 | Dataset          | PersuasionForGood                                              |
