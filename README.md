@@ -109,10 +109,10 @@ Adaptive and dynamic variants significantly outperform the static baseline acros
 
 ```
 ├── README.md
-├── Copy_of_Sentiment_Analysis,_BERT,_LLM,_Groq.ipynb
+├── Sentiment_Analysis,_BERT,_LLM,_Groq.ipynb
 ├── paper/
-│   └── ICWR2025_1263953.pdf
-├── assets/                  # optional visualizations or samples
+│   └── ...
+├── assets/                  
 └── requirements.txt
 ```
 
